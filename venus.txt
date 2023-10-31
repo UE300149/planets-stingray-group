@@ -1,3 +1,4 @@
 new planet found
 named it venus
 distance to earth:112.32 million km
+Venus has a very dense atmosphere: good for slowing down the landing approach, but we need a good heat shield.
