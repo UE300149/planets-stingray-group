@@ -1,0 +1,3 @@
+new planet found
+named it venus
+distance to earth:112.32 million km
