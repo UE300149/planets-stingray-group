@@ -1,2 +1,3 @@
 new planet found
 named it jupiter
+distance to earth: 595.61 million km
